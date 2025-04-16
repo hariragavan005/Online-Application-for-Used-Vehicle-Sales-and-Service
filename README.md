@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7f94c589-d00d-43ac-9f1e-1543273ced89)
+
 ### 📌 **S3H Car Dealer – MERN Stack Used Car Marketplace**
 
 #### 🧾 Overview  
