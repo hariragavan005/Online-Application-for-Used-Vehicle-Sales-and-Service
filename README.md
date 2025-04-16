@@ -1,3 +1,52 @@
+### 📌 **S3H Car Dealer – MERN Stack Used Car Marketplace**
+
+#### 🧾 Overview  
+**S3H Car Dealer** is a feature-rich used car marketplace web application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It bridges the gap between car buyers and sellers, offering a seamless platform for browsing, listing, and managing vehicle transactions.
+
+---
+
+### 🚀 **Key Features**
+
+#### 🔐 **User Authentication**
+- Secure signup and login  
+- JWT-based authentication  
+- Session handling using `jwtDecode`
+
+---
+
+#### 👤 **Buyer Features**
+- 🔍 Browse available used car listings with detailed specifications and images  
+- 💬 Express interest and submit bargain offers  
+- 📊 View and track offer/request statuses (`pending`, `accepted`, `rejected`)
+- 📧 Send service appointment requests to S3H dealer via email
+
+---
+
+#### 🧑‍💼 **Seller Features**
+- 📝 Create, update, and manage car listings  
+- 📸 Upload car images and detailed specifications  
+- 💬 View and respond to buyer inquiries and offers  
+- 💵 Manage bargain price negotiations with buyers
+
+---
+
+#### 📄 **Profile & Dashboard**
+- 👤 Manage personal profile and address  
+- ⏳ Track all request statuses in one place  
+- 📜 View complete transaction history
+
+---
+
+🌱 **Future Enhancements**
+
+- 🔐 **Role-based Admin Dashboard** for better control over users and listings 
+- 📲 **Push Notifications / Email Alerts** for buyer-seller updates  
+- 📊 **Analytics Dashboard** for sellers (views, interests, offers)  
+- 📍 **Map Integration** to view cars based on location  
+- 🧠 **AI-based Price Suggestions** for sellers based on similar listings  
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
